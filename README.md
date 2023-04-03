@@ -44,7 +44,7 @@ Cor:
 Ano:
 
 ```
-⇨ O arquivo crud_carro.sql será necessário para a execução do projeto.
+<h2>⇨ O arquivo crud_carro.sql será necessário para a execução do projeto.</h2>
 
 <h2>Para usar a aplicação<h2>
 ⇨ Baixe este repositório<br>
