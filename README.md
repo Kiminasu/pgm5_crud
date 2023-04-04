@@ -34,6 +34,17 @@ implementar uma dessas entidades.</h4>
 
 <h2>🗺️Mapeamento das Entidade</h2>
 
+<h3>Carros ↧</h3>
+
+```
+ID (CHAVE PRIMÁRIA)
+Marca:
+Modelo:
+Cor:
+Ano:
+
+```
+
 <h2>⇨ Os dados abaixo serão necessários serem criados no SQL para a execução do projeto.</h2>
 
 
