@@ -44,11 +44,11 @@ implementar uma dessas entidades.</h4>
 ⇨ Baixe este repositório<br>
 ⇨ Execute no Visual Code ou no seu software de preferência.<br>
 ⇨ abra um terminal e acesse a pasta api<br>
-⇨ dentro da pasta api, pelo terminal, dê o comando npm i para instalar as dependências<br>
-⇨ execute o back end no terminal com o comando Node index.js<br>
+⇨ dentro da pasta api, pelo terminal, dê os comandos 'npm i' e 'npm i mysql2' para instalar as dependências<br>
+⇨ execute o back end no terminal com o comando 'node index.js'<br>
 <br>
 ⇨ abra outro terminal e acesse a pasta frontend<br>
-⇨ instale as dependências com npm i<br>
+⇨ instale as dependências com 'npm i'<br>
 ⇨ execute o frontend com o comando npm start.<br>
 
 <h3> Desenvolvido por <h3>
