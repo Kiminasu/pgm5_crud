@@ -42,14 +42,14 @@ implementar uma dessas entidades.</h4>
 
 <h2>Para usar a aplicação<h2>
 ⇨ Baixe este repositório<br>
-⇨ Execute no Visual Code ou no seu software de preferência.<br>
-⇨ abra um terminal e acesse a pasta api<br>
-⇨ dentro da pasta api, pelo terminal, dê os comandos 'npm i' e 'npm i mysql2' para instalar as dependências<br>
-⇨ execute o back end no terminal com o comando 'node index.js'<br>
+⇨ Execute no Visual Code ou no seu software de preferência<br>
+⇨ Abra um terminal e acesse a pasta api digitando "cd api"<br>
+⇨ Dentro da pasta api, pelo terminal, dê os comandos "npm i" e "npm i mysql2" para instalar as dependências<br>
+⇨ Execute o back end no terminal com o comando node index.js<br>
 <br>
-⇨ abra outro terminal e acesse a pasta frontend<br>
-⇨ instale as dependências com 'npm i'<br>
-⇨ execute o frontend com o comando npm start.<br>
+⇨ Abra outro terminal e acesse a pasta frontend<br>
+⇨ Instale as dependências com "npm i"<br>
+⇨ Execute o frontend com o comando "npm start".<br>
 
 <h3> Desenvolvido por <h3>
  
